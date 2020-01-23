@@ -1,0 +1,26 @@
+#header {
+
+}
+
+#footer {
+
+
+}
+
+#main {
+    height: 800px;
+    display: block;
+    width: 80%;
+    margin: auto;
+    padding-top: 100px;
+    display: block;
+}
+
+#hook {
+    background-color: aqua;  
+    height: 700px;
+    width: 75%;
+    margin: auto;
+    display: block;
+    
+}
